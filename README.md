@@ -1,0 +1,2 @@
+# flatPlanner
+Magazine CMS
